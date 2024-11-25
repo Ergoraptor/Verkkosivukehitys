@@ -116,7 +116,7 @@ footer {
   
   /* Add an active class to the active dropdown button */
   .active {
-    background-color: green;
+    background-color: rgb(0, 109, 128);
     color: white;
   }
   
